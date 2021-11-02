@@ -2,9 +2,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import joblib
-import nltk
+
 from sklearn.metrics import accuracy_score, classification_report
-import matplotlib.pyplot as plt
 from PIL import Image
 
 
